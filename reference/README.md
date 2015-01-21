@@ -52,3 +52,6 @@ General Drone Knowledge
 3. [Example arducopter project](http://www.arducopter.co.uk/all-arducopter-guides/2connectingeverything-for-arducopter)
 4. [Great site with tons of articles for selecting parts](http://blacktieaerial.com)
 
+Extras
+--
+1. [How to solder bullet connectors](https://www.youtube.com/watch?v=MnldHRtjre8&spfreload=10)
