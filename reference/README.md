@@ -33,6 +33,7 @@ Software
 --
 1. [AeroQuad](http://aeroquad.com/content.php?s=2818a7c8e47b4119611c8e7ab7e14052)
     1. Strongly suggest you reference blog post for project 3 here [for tons of tips n tricks](http://robots.dacloughb.com/project-3/)
+2. [ArduCopter](http://copter.ardupilot.com)...not sure if we want this one
 
 Drone Wiring / Component Layout
 --
